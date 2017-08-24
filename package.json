@@ -1,6 +1,6 @@
 {
   "name": "chalk-pipe-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create chalk style schemes with simpler style strings",
   "main": "index.js",
   "scripts": {
