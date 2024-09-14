@@ -1,6 +1,5 @@
 # chalk-pipe-cli
 
-[![](https://img.shields.io/travis/LitoMore/chalk-pipe-cli/master.svg)](https://travis-ci.org/LitoMore/chalk-pipe-cli)
 [![](https://img.shields.io/npm/v/chalk-pipe-cli.svg)](https://www.npmjs.com/package/chalk-pipe-cli)
 [![](https://img.shields.io/npm/l/chalk-pipe-cli.svg)](https://github.com/LitoMore/chalk-pipe-cli/blob/master/LICENSE)
 [![](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
