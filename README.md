@@ -11,15 +11,15 @@ Create chalk style schemes with simpler style strings
 
 ## Install
 
-```bash
-$ npm install -g chalk-pipe-cli
+```shell
+npm install -g chalk-pipe-cli
 ```
 
 ## Usage
 
-```bash
-$ chalk-pipe orange.bold Unicorn Approved!
-$ chalk-pipe 'bgBlue.#ffffff.underline' Hello World
+```shell
+chalk-pipe orange.bold Unicorn Approved!
+chalk-pipe 'bgBlue.#ffffff.underline' Hello World
 ```
 
 ## Related
