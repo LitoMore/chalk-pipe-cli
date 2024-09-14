@@ -6,7 +6,7 @@
 
 Create chalk style schemes with simpler style strings
 
-![](https://raw.githubusercontent.com/LitoMore/chalk-pipe-cli/master/screenshot.png)
+![](https://raw.githubusercontent.com/LitoMore/chalk-pipe-cli/main/screenshot.webp)
 
 ## Install
 
